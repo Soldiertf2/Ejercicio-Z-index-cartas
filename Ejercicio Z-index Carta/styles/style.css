@@ -123,6 +123,7 @@ body{
 #cinco_corazones
 {	
 	color: red;
+	border-color: black;
 	position: absolute;
 	left:  660px;
 	top:  120px;
