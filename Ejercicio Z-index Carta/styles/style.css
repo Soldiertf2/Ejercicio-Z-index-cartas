@@ -123,11 +123,11 @@ body{
 #cinco_corazones
 {	
 	color: red;
-	position:  absolute;
-	left:  535px;
-	top:  60px;
-	z-index: 4;
-	transform: rotate(15deg);
+	position: absolute;
+	left:  660px;
+	top:  120px;
+	z-index: 5;
+	transform: rotate(30deg);
 }
 #numeracion5corazones_invertido{
 	transform:  rotate(180deg);
@@ -172,10 +172,10 @@ body{
 #siete_treboles
 {
 	position:  absolute;
-	left:  660px;
-	top:  120px;
-	z-index: 5;
-	transform: rotate(30deg);
+	left:  535px;
+	top:  60px;
+	z-index: 4;
+	transform: rotate(15deg);
 }
 #numeracion7treboles_invertido{
 	transform:  rotate(180deg);
